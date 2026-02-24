@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
+
+## [26.3.0] - 2026-02-24
 ### Added
 - Add log warnings when actual transcoding speed is potentially insufficient to support smooth playback
   - Log messages will include media item id, channel number and transcoding speed
@@ -3190,7 +3192,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Initial release to facilitate testing outside of Docker.
 
 
-[Unreleased]: https://github.com/ErsatzTV/ErsatzTV/compare/v26.2.0...HEAD
+[Unreleased]: https://github.com/ErsatzTV/ErsatzTV/compare/v26.3.0...HEAD
+[26.3.0]: https://github.com/ErsatzTV/ErsatzTV/compare/v26.2.0...v26.3.0
 [26.2.0]: https://github.com/ErsatzTV/ErsatzTV/compare/v26.1.1...v26.2.0
 [26.1.1]: https://github.com/ErsatzTV/ErsatzTV/compare/v26.1.0...v26.1.1
 [26.1.0]: https://github.com/ErsatzTV/ErsatzTV/compare/v25.9.0...v26.1.0
